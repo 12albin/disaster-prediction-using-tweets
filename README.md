@@ -1,1 +1,1 @@
-# disaster-prediction-using-tweets
+# disaster-prediction-using-twitter-tweets

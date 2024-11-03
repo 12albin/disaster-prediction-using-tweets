@@ -1,7 +1,7 @@
 import pickle
 import streamlit as stl
 import time
-from sklearn.feature_extraction.text import TfidfVectorizer as tf
+#from sklearn.feature_extraction.text import TfidfVectorizer as tf
 
 stl.title("Disaster tweet identification")
 model=pickle.load(open('model.pkl','rb'))
